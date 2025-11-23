@@ -1,5 +1,7 @@
 🎮 lifewood-2d-minigame
 
+![Image](https://github.com/user-attachments/assets/524d72f0-2932-4e3d-ae63-4c300c10470c)
+
 lifewood-2d-minigame is a polished, modern 2D Snake game generated entirely by Gemini AI in a single HTML file based on a one-shot prompt I personally crafted using prompt engineering.
 
 By crafting a detailed and structured prompt, I guided the AI to build everything: gameplay mechanics, responsive UI with glowing visuals, and local storage features, all bundled into one lightweight file.
